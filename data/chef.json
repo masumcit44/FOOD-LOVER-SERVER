@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "photo": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 1000,
+    "bio": "John Smith is a renowned chef with over 10 years of experience in the culinary industry. He has created 50 unique recipes that have received over 1000 likes from his fans."
+  },
+  {
+    "id": 2,
+    "photo": "https://example.com/chef2.jpg",
+    "name": "Jasmine Ahmed",
+    "years_of_experience": 7,
+    "num_recipes": 40,
+    "likes": 800,
+    "bio": "Jasmine Ahmed is a talented Bangladeshi chef with 7 years of experience. She has created 40 mouth-watering recipes that have received 800 likes from her fans."
+  },
+  {
+    "id": 3,
+    "photo": "https://example.com/chef3.jpg",
+    "name": "Rahul Gupta",
+    "years_of_experience": 12,
+    "num_recipes": 60,
+    "likes": 1200,
+    "bio": "Rahul Gupta is an experienced chef with 12 years of culinary expertise. He has created 60 innovative recipes that have received over 1200 likes from his fans."
+  },
+  {
+    "id": 4,
+    "photo": "https://example.com/chef4.jpg",
+    "name": "Fatima Chowdhury",
+    "years_of_experience": 5,
+    "num_recipes": 30,
+    "likes": 600,
+    "bio": "Fatima Chowdhury is a rising star in the Bangladeshi culinary world with 5 years of experience. She has created 30 delicious recipes that have received 600 likes from her fans."
+  },
+  {
+    "id": 5,
+    "photo": "https://example.com/chef5.jpg",
+    "name": "Imran Khan",
+    "years_of_experience": 8,
+    "num_recipes": 45,
+    "likes": 900,
+    "bio": "Imran Khan is an expert Bangladeshi chef with 8 years of experience. He has created 45 amazing recipes that have received 900 likes from his fans."
+  },
+  {
+    "id": 6,
+    "photo": "https://example.com/chef6.jpg",
+    "name": "Nadia Rahman",
+    "years_of_experience": 3,
+    "num_recipes": 20,
+    "likes": 400,
+    "bio": "Nadia Rahman is a young and talented Bangladeshi chef with 3 years of experience. She has created 20 unique recipes that have received 400 likes from her fans."
+  }
+]
