@@ -3,6 +3,8 @@ const app = express()
 const port = 3000;
 const chef = require('./data/chef.json')
 const receipe = require('./data/receipe.json')
+const cors =  require('cors')
+app.use(cors())
 app.get("/",(req,res)=>{
     res.send("food lover is running ")
 })
