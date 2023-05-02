@@ -1,0 +1,266 @@
+[
+    {
+      "id": 1,
+      "recipes": [
+        {
+          "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "Hilsa fish",
+            "Mustard seeds",
+            "Turmeric",
+            "Green chilies",
+            "Salt"
+          ],
+          "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+          "rating": 4.5
+        },
+        {
+          "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+          "name": "Chingri Malaikari",
+          "ingredients": [
+            "Prawns",
+            "Coconut milk",
+            "Onion",
+            "Garlic",
+            "Ginger"
+          ],
+          "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+          "rating": 4.2
+        },
+        {
+          "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+          "name": "Chomchom",
+          "ingredients": [
+            "Paneer",
+            "Milk",
+            "Sugar",
+            "Cardamom",
+            "Saffron"
+          ],
+          "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "recipes": [
+          {
+            "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+            "name": "Shorshe Ilish",
+            "ingredients": [
+              "Hilsa fish",
+              "Mustard seeds",
+              "Turmeric",
+              "Green chilies",
+              "Salt"
+            ],
+            "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+            "rating": 4.5
+          },
+          {
+            "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+            "name": "Chingri Malaikari",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+            "rating": 4.2
+          },
+          {
+            "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+            "name": "Chomchom",
+            "ingredients": [
+              "Paneer",
+              "Milk",
+              "Sugar",
+              "Cardamom",
+              "Saffron"
+            ],
+            "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "recipes": [
+          {
+            "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+            "name": "Shorshe Ilish",
+            "ingredients": [
+              "Hilsa fish",
+              "Mustard seeds",
+              "Turmeric",
+              "Green chilies",
+              "Salt"
+            ],
+            "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+            "rating": 4.5
+          },
+          {
+            "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+            "name": "Chingri Malaikari",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+            "rating": 4.2
+          },
+          {
+            "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+            "name": "Chomchom",
+            "ingredients": [
+              "Paneer",
+              "Milk",
+              "Sugar",
+              "Cardamom",
+              "Saffron"
+            ],
+            "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "recipes": [
+          {
+            "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+            "name": "Shorshe Ilish",
+            "ingredients": [
+              "Hilsa fish",
+              "Mustard seeds",
+              "Turmeric",
+              "Green chilies",
+              "Salt"
+            ],
+            "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+            "rating": 4.5
+          },
+          {
+            "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+            "name": "Chingri Malaikari",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+            "rating": 4.2
+          },
+          {
+            "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+            "name": "Chomchom",
+            "ingredients": [
+              "Paneer",
+              "Milk",
+              "Sugar",
+              "Cardamom",
+              "Saffron"
+            ],
+            "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "recipes": [
+          {
+            "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+            "name": "Shorshe Ilish",
+            "ingredients": [
+              "Hilsa fish",
+              "Mustard seeds",
+              "Turmeric",
+              "Green chilies",
+              "Salt"
+            ],
+            "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+            "rating": 4.5
+          },
+          {
+            "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+            "name": "Chingri Malaikari",
+            "ingredients": [
+              "Prawns",
+              "Coconut milk",
+              "Onion",
+              "Garlic",
+              "Ginger"
+            ],
+            "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+            "rating": 4.2
+          },
+          {
+            "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+            "name": "Chomchom",
+            "ingredients": [
+              "Paneer",
+              "Milk",
+              "Sugar",
+              "Cardamom",
+              "Saffron"
+            ],
+            "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+      "id": 6,
+      "recipes": [
+        {
+          "photo": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg",
+          "name": "Shorshe Ilish",
+          "ingredients": [
+            "Hilsa fish",
+            "Mustard seeds",
+            "Turmeric",
+            "Green chilies",
+            "Salt"
+          ],
+          "cookingMethod": "1. Make a paste of mustard seeds, green chilies and turmeric. 2. Marinate the hilsa fish with the paste and salt for 30 minutes. 3. Fry the fish in mustard oil until it turns golden brown. 4. Add some water and cook until the fish is done.",
+          "rating": 4.5
+        },
+        {
+          "photo": "https://www.scratchingcanvas.com/wp-content/uploads/2018/04/Golda-Chingri-Malaikari.2.jpg",
+          "name": "Chingri Malaikari",
+          "ingredients": [
+            "Prawns",
+            "Coconut milk",
+            "Onion",
+            "Garlic",
+            "Ginger"
+          ],
+          "cookingMethod": "1. Fry the prawns until they turn pink. 2. In a separate pan, fry some onion, garlic and ginger until they turn golden brown. 3. Add the fried prawns to the pan and mix well. 4. Add some coconut milk and cook until the prawns are done.",
+          "rating": 4.2
+        },
+        {
+          "photo": "https://static.wixstatic.com/media/05c508_f7066bb1841744c9a880ee7a09de50f8~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80,enc_auto/file.jpg",
+          "name": "Chomchom",
+          "ingredients": [
+            "Paneer",
+            "Milk",
+            "Sugar",
+            "Cardamom",
+            "Saffron"
+          ],
+          "cookingMethod": "1. Knead paneer until it becomes soft and smooth. 2. Shape the paneer into small, oval-shaped balls. 3. Boil milk and add sugar, cardamom and saffron to it. 4. Add the paneer balls to the milk and cook until they double in size.",
+          "rating": 4.7
+        }
+      ]
+    }
+]

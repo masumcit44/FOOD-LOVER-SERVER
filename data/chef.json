@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "photo": "https://example.com/chef1.jpg",
+    "photo": "https://miro.medium.com/v2/resize:fit:817/0*8d0vB1EsR6RUtRny",
     "name": "John Smith",
     "years_of_experience": 10,
     "num_recipes": 50,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "photo": "https://example.com/chef2.jpg",
+    "photo": "https://i2-prod.bristolpost.co.uk/incoming/article3351591.ece/ALTERNATES/s1200c/0_currycorner1.jpg",
     "name": "Jasmine Ahmed",
     "years_of_experience": 7,
     "num_recipes": 40,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "photo": "https://example.com/chef3.jpg",
+    "photo": "https://www.gannett-cdn.com/presto/2021/07/20/NAAS/34e83144-0e49-4f9f-99e0-5f6fbe357c3f-RBB_Top_Chef_Amateurs042719.JPG",
     "name": "Rahul Gupta",
     "years_of_experience": 12,
     "num_recipes": 60,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "photo": "https://example.com/chef4.jpg",
+    "photo": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
     "name": "Fatima Chowdhury",
     "years_of_experience": 5,
     "num_recipes": 30,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "photo": "https://example.com/chef5.jpg",
+    "photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/03/18/shelly-nuruzzaman-credit-bang-curry.jpg?width=1200",
     "name": "Imran Khan",
     "years_of_experience": 8,
     "num_recipes": 45,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "photo": "https://example.com/chef6.jpg",
+    "photo": "https://10play.com.au/ip/s3/2020/02/28/a7d2aab0b682eea7cfd1411d7ed15e5b-899308.jpg?image-profile=bio_full&io=portrait",
     "name": "Nadia Rahman",
     "years_of_experience": 3,
     "num_recipes": 20,
